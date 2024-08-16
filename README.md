@@ -17,4 +17,4 @@ macOS: $VMD_HOME/Contents/vmd/.vmdrc<br>
 After starting VMD, you can access the Molcontroller via the Extensions -> Modeling -> Molcontroller submenu in the VMD Main menu.
 
 # Citaion
-J. Chem. Inf. Model. 2020, 60, 10, 5126–5131
+Wu, C. C.; Liu, S. T.; Zhang, S. T.; Yang, Z. X., Molcontroller: A VMD Graphical User Interface Featuring Molecule Manipulation. J. Chem. Inf. Model. 2020, 60, 5126-5131.
