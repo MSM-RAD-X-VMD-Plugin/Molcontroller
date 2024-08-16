@@ -14,7 +14,7 @@ Windows: $VMD_HOME\vmd.rc<br>
 Linux: $VMD_HOME/lib/vmd/.vmdrc<br>
 macOS: $VMD_HOME/Contents/vmd/.vmdrc<br>
 ## 3. Launch VMD<br>
-After starting VMD, you can access the PACKMOL-GUI via the Extensions -> Modeling -> Molcontroller submenu in the VMD Main menu.
+After starting VMD, you can access the Molcontroller via the Extensions -> Modeling -> Molcontroller submenu in the VMD Main menu.
 
 # Citaion
 J. Chem. Inf. Model. 2020, 60, 10, 5126–5131
